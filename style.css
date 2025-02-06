@@ -1,0 +1,22 @@
+body {
+  font-family: Arial;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  object-fit: cover;
+}
+
+h1 {
+  font-size: 40px;
+}
